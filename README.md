@@ -1,16 +1,16 @@
 
-# Fingen Учет Расходов
+# Fingen Expense Manager
 
-Универсальное андроид-приложение для учета доходов и расходов со встроенным парсером смс.
+A universal android application for accounting of incomes and expenses with the built in sms parser.
 
 [Google Play](https://play.google.com/store/apps/details?id=com.yoshione.fingen)
 
 [4PDA](http://4pda.ru/forum/index.php?showtopic=715641)
 
-# Установка
+# Installation
 
-Клонируйте репозиторий и откройте в Android Studio. Для успешной компиляции необходимо добавить следующие файлы:
-- keystore.properties со следующим содержимым:
+Clone the repository and open it in Android Studio. To successfully compile, add the following files:
+- keystore.properties with the following content:
 
 ```
   keyAlias=  
@@ -26,6 +26,6 @@
   
 - app\google-services.json
 
-# Автор
+# Author
 
 Sulevi
